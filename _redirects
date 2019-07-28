@@ -2,4 +2,5 @@
 
 # Redirect default Netlify subdomain to primary domain
 https://suspicious-panini-3a56df.netlify.com/* https://liammcdermott.me.uk/:splat 301!
-https://www.liammcdermott.me.uk/* https://liammcdermott.me.uk/:splat 301!
+# www to non www
+#https://www.liammcdermott.me.uk/* https://liammcdermott.me.uk/:splat 301!
