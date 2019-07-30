@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in Belfast building Episerver, Umbraco and other .Net things.
+        Written by <strong>{author}</strong> who lives and works in Belfast building Episerver, Umbraco and other .Net solutions on Azure by day.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
         Follow me on twitter
